@@ -1,0 +1,21 @@
+test用
+
+ユーザー
+	ユーザー:testuser
+	password:P@ssw0rd
+
+ショップ名
+	ユーザー:testshop
+	password:P@ssw0rd
+
+
+機能
+■ユーザー
+	・login_shop_tableに登録しているshopから値段表を確認
+	・値段表から予約を行う
+	・自分の予約リストの確認
+
+■ショップ
+	・値段票の作成
+	・予約リストの確認
+	・ユーザから予約されたカラム(reserve_dbのstatがreserve)の表に対して、承認または拒否を選択
